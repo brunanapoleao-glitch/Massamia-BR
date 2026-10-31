@@ -6,7 +6,7 @@ Site desenvolvido como **projeto de extensão** do curso de Análise e Desenvolv
 
 ## Parceira beneficiada
 
-**[Denise]**, microempreendedora de [Nova Iguaçu – RJ], responsável pela **MassaMia**, negócio de massas artesanais. O site foi desenvolvido gratuitamente, a partir de entrevista de requisitos com a cliente.
+**[Denise silva]**, microempreendedora de [Nova Iguaçu – RJ], responsável pela **MassaMia**, negócio de massas artesanais. O site foi desenvolvido gratuitamente, a partir de entrevista de requisitos com a cliente.
 
 ## Objetivo
 
