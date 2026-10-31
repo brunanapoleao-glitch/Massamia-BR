@@ -6,7 +6,7 @@ Site desenvolvido como **projeto de extensão** do curso de Análise e Desenvolv
 
 ## Parceira beneficiada
 
-**[Nome da proprietária]**, microempreendedora de [Nova Iguaçu – RJ], responsável pela **MassaMia**, negócio de massas artesanais. O site foi desenvolvido gratuitamente, a partir de entrevista de requisitos com a cliente.
+**[Denise]**, microempreendedora de [Nova Iguaçu – RJ], responsável pela **MassaMia**, negócio de massas artesanais. O site foi desenvolvido gratuitamente, a partir de entrevista de requisitos com a cliente.
 
 ## Objetivo
 
@@ -16,7 +16,7 @@ Dar presença digital profissional ao negócio, apresentando os produtos, facili
 
 - Página inicial com apresentação do negócio
 - Catálogo de produtos com fotos e preços
-- Contato direto com a proprietária ([WhatsApp / redes sociais])
+- Contato direto com a proprietária ([21 97144-3816])
 - Área administrativa com login para atualização do conteúdo
 - Layout responsivo (celular e computador)
 
